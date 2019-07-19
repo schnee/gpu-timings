@@ -91,3 +91,34 @@ lstm_text_generation,P100,2,99
 lstm_text_generation,P100,3,98
 lstm_text_generation,P100,4,98
 lstm_text_generation,P100,5,97
+mnist_cnn, mx150,1,63
+mnist_cnn,mx150,2,66
+mnist_cnn,mx150,3,65
+mnist_cnn, mx150,4,65
+mnist_cnn,mx150,5,65
+mnist_cnn,mx150,6,64
+mnist_cnn, mx150,7,64
+mnist_cnn,mx150,8,64
+mnist_cnn,mx150,9,64
+mnist_cnn, mx150,10,64
+mnist_cnn,mx150,11,65
+mnist_cnn,mx150,12,64
+mnist_hierarchical_rnn,mx150,1,384
+mnist_hierarchical_rnn,mx150,2,391
+mnist_hierarchical_rnn,mx150,3,400
+mnist_hierarchical_rnn,mx150,4,390
+mnist_hierarchical_rnn,mx150,5,373
+lstm_text_generation,mx150,1,85
+lstm_text_generation,mx150,2,89
+lstm_text_generation,mx150,3,88
+lstm_text_generation,mx150,4,88
+lstm_text_generation,mx150,5,88
+imdb_bidirectional_lstm,mx150,1,94
+imdb_bidirectional_lstm,mx150,2,97
+imdb_bidirectional_lstm,mx150,3,97
+imdb_bidirectional_lstm,mx150,4,96
+imdb_fasttext,mx150,1,11
+imdb_fasttext,mx150,2,11
+imdb_fasttext,mx150,3,11
+imdb_fasttext,mx150,4,11
+imdb_fasttext,mx150,5,11
